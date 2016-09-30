@@ -4,12 +4,12 @@ This is an example project for angular components based on the angular example f
 
 In addition we implemented some unit- and e2e-tests.
 
-Prerequisites
+*Prerequisites*
 
     npm install -g karma-cli protractor
 
 
-Installation
+*Installation*
 
     1) Download or clone this repository
   
@@ -21,7 +21,7 @@ Installation
   
     5) See the application at http://localhost:3000
 
-End-to-end Tests
+*End-to-end Tests*
 
   (If not done than execute: "webdriver-manager update" and than "webdriver-manager start")
 
