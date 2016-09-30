@@ -22,6 +22,8 @@ Installation
     5) See the application at http://localhost:3000
 
 End-to-end Tests
+
   (If not done than execute: "webdriver-manager update" and than "webdriver-manager start")
-  protractor protractor.conf.js
+
+        protractor protractor.conf.js
 
