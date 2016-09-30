@@ -5,7 +5,8 @@ This is an example project for angular components based on the angular example f
 In addition we implemented some unit- and e2e-tests.
 
 Prerequisites
- - npm install -g karma-cli protractor
+
+    npm install -g karma-cli protractor
 
 
 Installation
