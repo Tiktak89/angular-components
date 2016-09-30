@@ -1,0 +1,7 @@
+Für e2e (end to end tests) muss ein Webserver laufen. Zusätzlich dazu muss der
+Webdriver laufen.
+
+In diesem Projekt also in der CLI:
+	npm run dev [if not already running]
+	webdriver-manager start [if not already running]
+	protractor protractor.conf.js

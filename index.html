@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Angular components</title>
+
+	<link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+
+	<script src="node_modules/angular/angular.js"></script>
+	<script src="node_modules/angular-route/angular-route.js"></script>
+
+	<script src="app/app.js"></script>
+	<script src="app/components/hero-list/heroList.component.js"></script>
+	<script src="app/components/hero-detail/heroDetail.component.js"></script>
+	<script src="app/components/hero-add/heroAdd.component.js"></script>
+	<script src="app/components/editable-field/editableField.component.js"></script>
+</head>
+<body ng-app="heroApp">
+
+	<div ng-view></div>
+
+</body>
+</html>

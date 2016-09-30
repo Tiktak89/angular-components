@@ -1,0 +1,8 @@
+<div class="panel panel-default">
+	<div class="panel-body">
+		<h4>{{$ctrl.hero.name}}</h4>
+		Location: <editable-field field-value="$ctrl.hero.location" field-type="text" on-update="$ctrl.update('location', value)"></editable-field>
+		<br>
+		<button class="btn btn-danger pull-right" ng-click="$ctrl.delete()">Delete</button>
+	</div>
+</div>
