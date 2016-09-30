@@ -20,6 +20,10 @@ In addition we implemented some unit- and e2e-tests.
     4) npm run dev
   
     5) See the application at http://localhost:3000
+    
+*Unit Tests*
+                            
+    npm test
 
 *End-to-end Tests*
 
