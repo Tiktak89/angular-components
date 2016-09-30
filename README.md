@@ -2,7 +2,7 @@
 
 This is an example project for angular components based on the angular example from the docs (https://docs.angularjs.org/guide/component).
 
-In addition we implemented some unit- and e2e-tests.
+In addition we have some unit- (jasmine and karma) and e2e-tests (protractor).
 
 *Prerequisites*
 
